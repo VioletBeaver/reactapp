@@ -1,0 +1,10 @@
+{
+  "screenshotOnRunFailure": false,
+  "video": false,
+  "baseUrl": "http://localhost:3000",
+  "experimentalSessionAndOrigin": true,
+  "reporter": "json",
+  "reporterOptions": {
+    "output": "reports/main.json"
+  }
+}
